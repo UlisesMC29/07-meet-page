@@ -17,6 +17,7 @@
   padding-left: 460px;  
 }
 
+
 .img-left{
   position: absolute;
   left: -35px;
@@ -115,6 +116,7 @@
   grid-template-columns: 1fr;
   justify-content: center;
   align-items: center;
+  padding-top: 95px;
 }
 
 .circule{
@@ -138,7 +140,7 @@
   /* position: absolute; */
   padding: 0;
   size: 8px;
-  height: 90px;
+  height: 86px;
   mix-blend-mode: normal;
   opacity: 0.25;
   border: 1px solid #87879D;
